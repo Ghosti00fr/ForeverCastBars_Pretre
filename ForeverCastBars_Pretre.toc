@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: Forever Cast Bars - Priest
+## Title-frFR: Forever Cast Bars - Prêtre
+## Title-esES: Forever Cast Bars - Sacerdote
+## Title-esMX: Forever Cast Bars - Sacerdote
+## Notes: Priest pack for Forever Cast Bars: one illustrated, animated bar per priest spell. Optional.
+## Notes-frFR: Pack Prêtre pour Forever Cast Bars : une barre illustrée et animée par sort de prêtre. Optionnel.
+## Notes-esES: Paquete de sacerdote para Forever Cast Bars: una barra ilustrada y animada por hechizo de sacerdote. Opcional.
+## Notes-esMX: Paquete de sacerdote para Forever Cast Bars: una barra ilustrada y animada por hechizo de sacerdote. Opcional.
+## Author: Ghosti
+## Version: 0.0.39
+## X-License: All Rights Reserved
+## Dependencies: ForeverCastBars
+## IconTexture: Interface\Icons\Spell_Holy_PowerWordShield
+
+Pretre.lua
